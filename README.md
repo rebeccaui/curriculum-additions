@@ -27,3 +27,5 @@ The incorporation of React Native into the full stack web development program wo
 ### Lesson Plan 
 Instructor Does: React vs. React Native Lecture (20 mins)
 Everyone Does: React Native Snack Activity (30 mins) 
+
+Copyright (c) 2019 Rebecca Wieberdink
