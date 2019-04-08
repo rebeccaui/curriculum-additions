@@ -1,0 +1,9 @@
+Production Ready!
+
+1. What is "production ready" in web development? 
+
+2. What is the difference between development and production environments?
+
+3. How would you determine if an app was production-ready? Create a list or outline of requirements the app would need to meet. 
+
+4. What sort of additional code or preparations would need to be included to meet these requirements?
