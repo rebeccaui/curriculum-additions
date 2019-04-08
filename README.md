@@ -22,6 +22,15 @@ Student will read about and create their very own NPM package that they can use 
 **Everyone Does**: Share and discuss your creations! (5-10 mins)
 
 ================================
+## React Native
+The incorporation of React Native into the full stack web development program would help future programmers on their journey to creating versatile, cross-platform applications. While React is useful in the creation of web apps, React Native allows the developer to create an app that is iOS and Android-friendly. This lesson would not require the lengthy installation process of Android Studio and it's emulators. Instead, the class should utilize Expo Snack, an online sandbox emulator. 
+
+### Lesson Plan 
+**Instructor Does**: React vs. React Native Lecture (20 mins) - https://www.slideshare.net/AmazonWebServices/introduction-to-react-native-95577442 \
+**Everyone Does**: React Native Snack Activity (30 mins) - Using expo snack and the React Native documentation, edit the code in the snack emulator. - https://snack.expo.io/ \
+
+================================
+SECONDARY OPTION IN PLACE OF PUBLUSHING NPM PACKAGE
 ## Content Management Systems 
 By introducing a CMS to students, we would be providing an authentic learning experience to those who are just acquiring their first jobs in the field as well as freelancing developers. According to W3Techs, a web technology survey provider, WordPress is used by 33.5% of all the websites in existence and has a CMS market share of 60.4% (2019). By ignoring Content Management Systems, full stack developers from bootcamps miss out on the platform that supports a third of all websites in the world. Toward the middle of the course, students feel mostly confident in using the front-end, but they are distracted during the half-days of class during Project 2 week. Rather than jumping directly into QA and testing, I propose that a fun, easy CMS introduction will help students relax and refocus. Testing is a very important section, and it would be best if students could approach it with a refreshed mindset. 
 
@@ -30,13 +39,6 @@ By introducing a CMS to students, we would be providing an authentic learning ex
 **Everyone Does**: WordPress Activity - Add students as admins to the site and allow them to add or clone a page on the website and experiment with layouts on a site that is already in a production setting. (30 mins)\
 **Instructor Does**: Whole class questions and clarifications (10-15 mins)
 
-================================
-## React Native
-The incorporation of React Native into the full stack web development program would help future programmers on their journey to creating versatile, cross-platform applications. While React is useful in the creation of web apps, React Native allows the developer to create an app that is iOS and Android-friendly. This lesson would not require the lengthy installation process of Android Studio and it's emulators. Instead, the class should utilize Expo Snack, an online sandbox emulator. 
-
-### Lesson Plan 
-**Instructor Does**: React vs. React Native Lecture (20 mins) - https://www.slideshare.net/AmazonWebServices/introduction-to-react-native-95577442 \
-**Everyone Does**: React Native Snack Activity (30 mins) - Using expo snack and the React Native documentation, edit the code in the snack emulator. - https://snack.expo.io/
 \
 \
 \
