@@ -36,7 +36,7 @@ The incorporation of React Native into the full stack web development program wo
 
 ### Lesson Plan 
 **Instructor Does**: React vs. React Native Lecture (20 mins) - https://www.slideshare.net/AmazonWebServices/introduction-to-react-native-95577442 \
-**Everyone Does**: React Native Snack Activity (30 mins) 
+**Everyone Does**: React Native Snack Activity (30 mins) - Using expo snack and the React Native documentation, edit the code in the snack emulator. - https://snack.expo.io/
 \
 \
 \
